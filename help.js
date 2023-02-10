@@ -613,15 +613,15 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Ovo*
-Number: 082284899110
-A/N: gilangsandi
+Number: '-'
+A/N: '-'
 
 *Payment Dana*
-Number: 082284899110
-A/N: gilangsandis
+Number: 0895406419364
+A/N: Agung
 
 *Payment Saweria*
-Link : saweria.co/langbotz
+Link : '-'
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -632,17 +632,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lang
- • *Umur:* 15 tahun
- • *Hoby:* Turu/Ngoding
- • *Askot:* PekanBaru
+ • *Nama:* Agunh
+ • *Umur:* 16 tahun
+ • *Hoby:* '-'
+ • *Askot:* '-'
  • *Konten:* Kaga Ad
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 082284899110
- • *Youtube:* LangBotz
- • *Github:* GilangSan
+ • *Whatsapp:* 0895406419364
+ • *Youtube:* '-'
+ • *Github:* '-'
  `
 }
